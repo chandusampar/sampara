@@ -1,0 +1,13 @@
+<html>
+  <head>
+    <title> table tag</title>
+  </head>
+  <body>
+    <table colspan="5"rowspan="5">
+      <td>
+      <th>name</th>
+      <th>roll number</th>
+      <th>suc code</th>
+    </td
+  </body>
+</html>
